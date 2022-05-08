@@ -1,0 +1,15 @@
+Chromatic (all notes): C,C#,D,D#,E,F,F#,G,G#,A,A#,B
+
+C Major / A Minor: C,D,E,F,G,A,B
+G Major / E Minor: C,D,E,F#,G,A,B
+D Major / B Minor: C#,D,E,F#,G,A,B
+A Major / F# Minor: C#,D,E,F#,G#,A,B
+E Major / C# Minor: C#,D#,E,F#,G#,A,B
+B Major / G# Minor: C#,D#,E,F#,G#,A#,B
+
+F Major / D Minor: C,D,E,F,G,A,Bb
+Bb Major / G Minor: C,D,Eb,F,G,A,Bb
+Eb Major / C Minor: C,D,Eb,F,G,Ab,Bb
+Ab Major / F Minor: C,Db,Eb,F,G,Ab,Bb
+Db Major / Bb Minor: C,Db,Eb,F,Gb,Ab,Bb
+Gb Major / Eb Minor: Cb,Db,Eb,F,Gb,Ab,Bb
