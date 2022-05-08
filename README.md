@@ -39,10 +39,10 @@ dragging around points. More info on their purpose or how to modify them can be 
 in the section about [Modifying frequency lines](#Modifying_frequency_lines).
 
 If you want an audio file to test something, you can load in one of the WAV files in "audio_samples".
-Some of these samples come from freesound.org, hereby the needed credits:
-voice A4 -> "Solfege - La.wav" by digifishmusic (https://freesound.org/people/digifishmusic/sounds/44932/) licensed under CCBY 3.0
-opera vocals -> "ABIDE WITH ME - Opera vocals.wav" by Ramston (https://freesound.org/people/Ramston/sounds/262274/) licensed under CCBYNC 4.0
-someone talking -> "Request #12 - novaawesomesauce (26.5.18) » Voice Request #36 - What's the point.wav" by InspectorJ (https://freesound.org/people/InspectorJ/sounds/431167/) licensed under CCBYNC 4.0
+Some of these samples come from freesound.org, hereby the needed credits: <br>
+voice A4 -> "Solfege - La.wav" by digifishmusic (https://freesound.org/people/digifishmusic/sounds/44932/) licensed under CCBY 3.0 <br>
+opera vocals -> "ABIDE WITH ME - Opera vocals.wav" by Ramston (https://freesound.org/people/Ramston/sounds/262274/) licensed under CCBYNC 4.0 <br>
+someone talking -> "Request #12 - novaawesomesauce (26.5.18) » Voice Request #36 - What's the point.wav" by InspectorJ  <br>(https://freesound.org/people/InspectorJ/sounds/431167/) licensed under CCBYNC 4.0 <br>
 
  ### Buttons <a name="Buttons"></a>
 - **Play button:** Plays the audio sample (Note: it may take some time to calculate the modified audio)
