@@ -1,8 +1,7 @@
 # Autotune using Python
 
 Using the GUI, you can easily load or record audio samples and modify the pitch.
-If you'd like to know how the calculations behind this program work, you can watch this video: 
-_link will soon be available_. <br>
+If you'd like to know how the calculations behind this program work, you can watch this video: [https://youtu.be/HvKpBbHj5cY](https://youtu.be/HvKpBbHj5cY). <br>
 The most important information given in the video will be listed below.
 If you have questions, suggestions or if you encounter a bug, be sure to let me know 
 (eg. by creating an 'issue' on GitHub).
